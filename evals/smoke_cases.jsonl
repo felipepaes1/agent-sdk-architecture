@@ -1,0 +1,3 @@
+{"id":"tool-extension","input":"Como adiciono uma nova tool neste starter?","ideal":"Deve mencionar custom.py, @function_tool, CUSTOM_TOOLS e factory.py."}
+{"id":"prompt-extension","input":"Onde altero a personalidade do agente?","ideal":"Deve apontar para prompts/assistant.md e explicar que prompts ficam fora do codigo."}
+{"id":"mcp-extension","input":"Quando uso MCP hospedado versus MCP local?","ideal":"Deve diferenciar servidor remoto publico de runtime privado/controlado pela aplicacao."}
