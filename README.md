@@ -11,7 +11,7 @@ conectar integrações e evoluir para workflows multiagente sem reestruturar o p
 - `src/summit_agents/tools/`: tools Python com `@function_tool` e registry simples.
 - `src/summit_agents/integrations/`: helpers para sessão local e MCP.
 - `src/summit_agents/workflows/`: execução de uma rodada com tracing opcional.
-- `evals/`: casos de fumaça para comparar comportamento ao mudar prompts e tools.
+- `evals/`: smoke tests para comparar comportamento ao mudar prompts e tools.
 - `docs/`: guia de arquitetura e pontos de extensão.
 - `tests/`: teste pequeno para validar o loader de prompts.
 
